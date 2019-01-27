@@ -3,7 +3,7 @@
 
 <br>
 
-<p>Later I will provide more information about this project via a more detailed <strong>readme</strong> as well as post a detailed video overview.</p>
+<p>The backend created in GO https://github.com/mystrojohn/market-feed-go-backend for this frondend. </p>
 
 
 
