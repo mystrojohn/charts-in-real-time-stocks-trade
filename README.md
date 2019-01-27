@@ -3,7 +3,7 @@
 
 <br>
 
-<p>The backend created in GO https://github.com/mystrojohn/market-feed-go-backend for this frondend. </p>
+
 
 
 
@@ -13,9 +13,6 @@
 
 
 
-# real-time-charts
-
-# real-time-charts
 
 # charts-in-real-time-stocks-trade
 
