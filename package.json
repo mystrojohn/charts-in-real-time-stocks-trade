@@ -8,7 +8,7 @@
     "start": "node --use_strict start.js",
     "packit": "webpack --progress --colors --bail && node --use_strict start.js"
   },
-  "author": "Peter Halloran",
+  "author": "John Khbeis",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.24.1",
